@@ -32,7 +32,6 @@ jsp을 사용한 관리자 홈페이지 < 배치프로그램 관리 기능을 �
 5.Ajax을 이용한 submit 처리
 6.Jqgrid를 이용한 페이징처리
 
-## 화면 구성 
 
-###상세정보
+## 배치프로그램 상세정보 팝업 
 ![20220104_131946](https://user-images.githubusercontent.com/82851125/148013249-cb1a604d-1f76-41d9-9ac9-1f39be7d3fc8.png)
