@@ -33,5 +33,20 @@ jsp을 사용한 관리자 홈페이지 < 배치프로그램 관리 기능을 �
 6.Jqgrid를 이용한 페이징처리
 
 
-## 배치프로그램 상세정보 팝업 
+## 배치프로그램 전체 리스트  
+![20220104_131312](https://user-images.githubusercontent.com/82851125/148013691-f7358f29-07dc-4830-9d85-45084f59ab04.png)
+
+## 배치프로그램 상세정보 
 ![20220104_131946](https://user-images.githubusercontent.com/82851125/148013249-cb1a604d-1f76-41d9-9ac9-1f39be7d3fc8.png)
+
+## 배치프로그램 관리 리스트(등록 수정을 위한 리스트)  
+![20220104_131421](https://user-images.githubusercontent.com/82851125/148013826-1c3f6f62-bf61-4419-a12c-2ac6bafb68f3.png)
+
+## 배치프로그램 등록  
+![20220104_131827](https://user-images.githubusercontent.com/82851125/148013622-6714726c-b5dc-4949-ba43-ca527439fa75.png)
+
+## 배치프로그램 수정  
+![20220104_140225](https://user-images.githubusercontent.com/82851125/148014227-3b28a546-a373-4bc6-a51f-827e08ae26a5.png)
+
+참고로 리스트안의 내용은 표시할수없는 내용이므로 이미지파일 수정후에 올린점 양해 부탁드립니다.
+
